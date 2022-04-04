@@ -8,8 +8,7 @@
 `JAVA☕` | `Python🐍` | `Go🐹` | `Linux🐧` | `Docker🐋`
 
 ---
-
-[![york-yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=york-yang-me&show_icons=true&theme=radical)](https://github.com/york-yang-me/github-readme-stats)
+[![york-yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=york-yang-me&layout=compact&langs_count=6&show_icons=true&theme=radical)](https://github.com/york-yang-me/github-readme-stats)
 - 🌱 I’m currently learning **homomorphic encryption with python**
 
 - 📝 I regularly write articles on [https://blog.csdn.net/qq_40258073](https://blog.csdn.net/qq_40258073)
