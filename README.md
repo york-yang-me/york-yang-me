@@ -4,7 +4,11 @@
 
 ### ⚡ Label
 `Cryptography` / `Blockchain` / `Distributed Computing`  /
-`JAVA☕` | `Python🐍` | `JAVA☕` | `Go🐹` | `Linux🐧` | `Docker🐋`
+
+`JAVA☕` | `Python🐍` | `Go🐹` | `Linux🐧` | `Docker🐋`
+
+---
+
 [![york-yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=york-yang-me&show_icons=true&theme=radical)](https://github.com/york-yang-me/github-readme-stats)
 - 🌱 I’m currently learning **homomorphic encryption with python**
 
