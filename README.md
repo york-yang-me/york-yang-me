@@ -1,7 +1,7 @@
 <!--
 **york-yang-me/york-yang-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hello everyone/大家好/こにちは👋
+## Hello everyone/大家好/こんにちは👋
 ### ⚡ Label
 `Cryptography` / `Blockchain` / `Distributed Computing`  /
 
