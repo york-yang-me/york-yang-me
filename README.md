@@ -13,6 +13,8 @@
 
 - 📝 Sometimes I write articles on [https://blog.csdn.net/qq_40258073](https://blog.csdn.net/qq_40258073)
 
+![](https://raw.githubusercontent.com/york-yang-me/york-yang-me/output/github-contribution-grid-snake.svg)
+
 #### Languages
 ![](https://img.shields.io/badge/Go-100555?style=flat-square&logo=go)
 ![](https://img.shields.io/badge/Python-ffdd6e?style=flat-square&logo=python)
