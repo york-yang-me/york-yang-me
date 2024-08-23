@@ -11,7 +11,7 @@
 <!--[![york-yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=york-yang-me&layout=compact&langs_count=6&show_icons=true&theme=vue-dark)](https://github.com/york-yang-me/github-readme-stats)-->
 - 🌱 I’m currently learning **zk-snarks with go**
 
-- 📝 Sometimes I write articles on [https://blog.csdn.net/qq_40258073](https://blog.csdn.net/qq_40258073)
+- 📝 Sometimes I write articles on [CSDN](https://blog.csdn.net/qq_40258073)
 
 ![](https://raw.githubusercontent.com/york-yang-me/york-yang-me/output/github-contribution-grid-snake.svg)
 
