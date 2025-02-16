@@ -35,3 +35,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=york-yang-me&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/york-yang-me/github-readme-stats)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+### Page views
+<p>
+	<img src="https://count.getloli.com/get/@york-yang-me.github.readme"/>
+ <a href="https://sm.ms/image/d8CibNZ6X93QARa" target="_blank"><img src="https://s2.loli.net/2025/02/16/d8CibNZ6X93QARa.png" align="right" width="100px"></a>
+</p>
