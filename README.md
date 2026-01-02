@@ -32,8 +32,6 @@
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Postman-84E1F7?style=flat-square&logo=postman)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=york-yang-me&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/york-yang-me/github-readme-stats)
-
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 ### Page views
 <p>
